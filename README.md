@@ -58,6 +58,8 @@ The workflow lives at `.github/workflows/daily-email.yml`.
 
 The workflow writes the updated `data/history.json` back to the repository after each successful run so future generations can check the last 7 entries.
 
+Because this repository is public, the history log stores the generated content and send timestamp, but not the raw recipient email addresses.
+
 ## Required GitHub secrets
 
 Add these repository secrets:

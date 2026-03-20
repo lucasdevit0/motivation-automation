@@ -33,7 +33,7 @@ async function main() {
   const historyEntry = {
     sentAt: new Date().toISOString(),
     model: modelName,
-    recipients: config.recipients,
+    recipientCount: config.recipients.length,
     ...entry,
   };
 
