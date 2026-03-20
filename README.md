@@ -11,7 +11,7 @@ Before generating the next email, it looks at the last 7 entries in [`data/histo
 ## Stack
 
 - Node.js 24
-- OpenRouter model: `google/gemini-2.0-flash-lite-001`
+- OpenRouter model: `x-ai/grok-3-mini`
 - Gmail API with OAuth refresh token
 - GitHub Actions for the daily schedule
 

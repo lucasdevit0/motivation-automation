@@ -9,7 +9,7 @@ const rootDir = path.resolve(__dirname, "..");
 const envFilePath = path.join(rootDir, ".env");
 const historyFilePath = path.join(rootDir, "data", "history.json");
 const recentHistoryLimit = 7;
-const modelName = "google/gemini-2.0-flash-lite-001";
+const modelName = "x-ai/grok-3-mini";
 
 loadEnvFile();
 
