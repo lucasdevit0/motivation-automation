@@ -6,5 +6,13 @@
     "motivationalPhrase": "Embrace the day's possibilities with an open mind and a determined spirit.",
     "healthSuggestion": "Take a brisk walk outside for at least 20 minutes to boost your mood and energy.",
     "gratitudePhrase": "I am thankful for the small joys that brighten each day, like a sunny morning."
+  },
+  {
+    "sentAt": "2026-03-20T17:31:02.243Z",
+    "model": "google/gemini-2.0-flash-lite-001",
+    "recipientCount": 1,
+    "motivationalPhrase": "Remember that taking small steps consistently builds the momentum you need to reach your goals.",
+    "healthSuggestion": "Drink a full glass of water first thing in the morning to hydrate and energize your body.",
+    "gratitudePhrase": "I'm grateful for the support system of friends and family who make life's journey easier."
   }
 ]
