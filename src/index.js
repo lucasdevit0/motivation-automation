@@ -168,15 +168,19 @@ async function generateEntry(openRouterApiKey, recentSummary, attempt) {
         {
           role: "system",
           content:
-            "You write warm, concise daily wellbeing emails. Return valid JSON only with keys motivationalPhrase, healthSuggestion, gratitudePhrase. Each value must be one sentence, practical, original, and under 28 words.",
+            "You are a grounded, encouraging life coach writing a short daily email to a busy adult. Return valid JSON only with keys motivationalPhrase, healthSuggestion, gratitudePhrase. Each value must be one sentence, practical, emotionally intelligent, specific, original, and under 32 words. Use direct second-person language when helpful. Avoid cliches, empty slogans, vague mindfulness bromides, and repetitive self-help language.",
         },
         {
           role: "user",
           content: [
-            "Create three original lines for today's email:",
-            "1. A motivational phrase.",
-            "2. One concrete thing we can do today to improve our health.",
-            "3. A gratitude phrase.",
+            "Create three original lines for today's email.",
+            "Write like a calm life coach who wants the reader to take one meaningful step today.",
+            "The tone should feel warm, steady, and useful rather than generic or overly dramatic.",
+            "Make the writing feel like it understands real life: work, stress, energy, discipline, and small daily choices.",
+            "Avoid phrases like 'believe in yourself', 'embrace the day', 'stay positive', 'present moment', and similar stock wording.",
+            "1. A motivational phrase that offers real perspective, encouragement, or gentle accountability.",
+            "2. One concrete thing we can do today to improve our health, with practical advice and a clear action.",
+            "3. A gratitude phrase that feels reflective, sincere, and grounded in ordinary life rather than abstract inspiration.",
             "",
             `This is generation attempt ${attempt}.`,
             "Avoid repeating or closely paraphrasing any item from the last seven generations below.",
@@ -274,26 +278,46 @@ function isRecentDuplicate(entry, recentEntries) {
 
 async function sendEmail(config) {
   const accessToken = await getAccessToken(config);
-  const subjectDate = new Intl.DateTimeFormat("en-CA", {
+  const now = new Date();
+  const subjectDate = new Intl.DateTimeFormat("en-US", {
     timeZone: "America/Sao_Paulo",
     dateStyle: "long",
-  }).format(new Date());
+  }).format(now);
+  const weekday = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/Sao_Paulo",
+    weekday: "long",
+  }).format(now);
 
   const subject = `Daily motivation for ${subjectDate}`;
   const textBody = [
-    "Here is your daily check-in:",
+    "Your daily coaching note",
     "",
-    `Motivational phrase: ${config.entry.motivationalPhrase}`,
-    `Health suggestion: ${config.entry.healthSuggestion}`,
-    `Gratitude phrase: ${config.entry.gratitudePhrase}`,
+    `Mindset: ${config.entry.motivationalPhrase}`,
+    `Health focus: ${config.entry.healthSuggestion}`,
+    `Gratitude: ${config.entry.gratitudePhrase}`,
+    "",
+    "Take one small action today and let that be enough.",
   ].join("\n");
 
   const htmlBody = [
-    "<div style=\"font-family:Arial,sans-serif;line-height:1.6;color:#1f2937;\">",
-    "<h2 style=\"margin-bottom:16px;\">Your daily check-in</h2>",
-    `<p><strong>Motivational phrase:</strong> ${escapeHtml(config.entry.motivationalPhrase)}</p>`,
-    `<p><strong>Health suggestion:</strong> ${escapeHtml(config.entry.healthSuggestion)}</p>`,
-    `<p><strong>Gratitude phrase:</strong> ${escapeHtml(config.entry.gratitudePhrase)}</p>`,
+    "<div style=\"margin:0;padding:32px 18px;background:linear-gradient(180deg,#f4efe6 0%,#f7f8fc 100%);font-family:Georgia,'Times New Roman',serif;color:#1f2937;\">",
+    "<div style=\"max-width:640px;margin:0 auto;background:#fffdf9;border:1px solid #eadfce;border-radius:24px;overflow:hidden;box-shadow:0 18px 50px rgba(74,56,35,0.12);\">",
+    "<div style=\"padding:32px 32px 20px;background:radial-gradient(circle at top left,#fde7c8 0%,#f6efe4 48%,#fffdf9 100%);border-bottom:1px solid #efe5d8;\">",
+    `<p style=\"margin:0 0 10px;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#8a6f4d;\">${escapeHtml(weekday)} coaching note</p>`,
+    `<h1 style=\"margin:0 0 10px;font-size:32px;line-height:1.15;color:#2f2418;\">A steady step for ${escapeHtml(subjectDate)}</h1>`,
+    "<p style=\"margin:0;font-size:16px;line-height:1.7;color:#5b4a39;\">A small, intentional action can change the tone of a whole day. Here is your reset for today.</p>",
+    "</div>",
+    "<div style=\"padding:28px 32px 32px;\">",
+    renderEmailCard("Mindset", config.entry.motivationalPhrase, "#c8752c", "#fff4e8"),
+    renderEmailCard("Health Focus", config.entry.healthSuggestion, "#2f7d66", "#eaf7f1"),
+    renderEmailCard("Gratitude", config.entry.gratitudePhrase, "#4467b2", "#edf3ff"),
+    "<div style=\"margin-top:24px;padding:18px 20px;border-radius:18px;background:#f6f1e8;border:1px solid #eadfce;\">",
+    "<p style=\"margin:0 0 8px;font-size:12px;letter-spacing:1.8px;text-transform:uppercase;color:#8a6f4d;\">Coach's reminder</p>",
+    "<p style=\"margin:0;font-size:15px;line-height:1.75;color:#4b3c2d;\">Pick the easiest helpful action in this email and do it before the day gets noisy. Momentum grows faster than motivation.</p>",
+    "</div>",
+    "<p style=\"margin:24px 0 0;font-size:13px;line-height:1.6;color:#8a7b6b;text-align:center;\">Sent automatically from your daily life-coach workflow.</p>",
+    "</div>",
+    "</div>",
     "</div>",
   ].join("");
 
@@ -390,6 +414,15 @@ function escapeHtml(value) {
     .replace(/>/gu, "&gt;")
     .replace(/"/gu, "&quot;")
     .replace(/'/gu, "&#39;");
+}
+
+function renderEmailCard(title, body, accentColor, backgroundColor) {
+  return [
+    `<div style="margin-top:16px;padding:20px 20px 18px;border-radius:20px;background:${backgroundColor};border:1px solid rgba(31,41,55,0.08);">`,
+    `<p style="margin:0 0 10px;font-size:12px;letter-spacing:1.8px;text-transform:uppercase;color:${accentColor};font-family:Arial,sans-serif;font-weight:700;">${escapeHtml(title)}</p>`,
+    `<p style="margin:0;font-size:19px;line-height:1.7;color:#1f2937;">${escapeHtml(body)}</p>`,
+    "</div>",
+  ].join("");
 }
 
 function requireTextFile(filePath) {
