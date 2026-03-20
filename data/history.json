@@ -14,5 +14,15 @@
     "motivationalPhrase": "Remember that taking small steps consistently builds the momentum you need to reach your goals.",
     "healthSuggestion": "Drink a full glass of water first thing in the morning to hydrate and energize your body.",
     "gratitudePhrase": "I'm grateful for the support system of friends and family who make life's journey easier."
+  },
+  {
+    "sentAt": "2026-03-20T17:43:08.977Z",
+    "model": "x-ai/grok-3-mini",
+    "recipientCount": 1,
+    "motivationalPhrase": "In the midst of a demanding workday, choose to tackle one neglected personal goal, like reading a few pages of that book you've set aside. This act of self-investment can restore a sense of balance and remind you that your well-being matters alongside your responsibilities. By prioritizing this small commitment, you're building resilience to handle stress more effectively over time.",
+    "healthSuggestion": "Today, incorporate a short stretching routine into your evening wind-down, spending just five minutes on gentle neck rolls and forward bends. This practice can alleviate the tension built up from hours at a desk, improving your sleep quality and reducing the risk of chronic discomfort. Take this step right before bed to create a calming transition that supports your body's recovery and tomorrow's energy.",
+    "gratitudePhrase": "Consider the steady rhythm of your daily habits, such as the way your favorite mug holds your tea just right on a stressful morning. These unremarkable routines offer a quiet anchor when work demands pull you in every direction. Acknowledging them helps you find steadiness in the ordinary flow of life, fostering a deeper appreciation for the stability they provide.",
+    "famousQuote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "quoteAuthor": "Winston Churchill"
   }
 ]
