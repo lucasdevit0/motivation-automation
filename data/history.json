@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "sentAt": "2026-03-20T17:24:53.528Z",
+    "model": "google/gemini-2.0-flash-lite-001",
+    "recipientCount": 1,
+    "motivationalPhrase": "Embrace the day's possibilities with an open mind and a determined spirit.",
+    "healthSuggestion": "Take a brisk walk outside for at least 20 minutes to boost your mood and energy.",
+    "gratitudePhrase": "I am thankful for the small joys that brighten each day, like a sunny morning."
+  }
+]
