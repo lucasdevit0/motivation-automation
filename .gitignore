@@ -1,0 +1,11 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node / logs
+node_modules/
+npm-debug.log*
+
+# Local tooling
+.tools/
