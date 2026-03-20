@@ -437,8 +437,8 @@ function escapeHtml(value) {
 
 function renderEmailSection(title, body) {
   return [
-    `<div style="margin:0 0 18px;">`,
-    `<p style="margin:0 0 6px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#8a6f4d;font-family:Arial,sans-serif;font-weight:700;">${escapeHtml(title)}</p>`,
+    `<div style="margin:0 0 20px;">`,
+    `<p style="margin:0 0 8px;font-size:14px;letter-spacing:1.2px;text-transform:uppercase;color:#6f5332;font-family:Arial,sans-serif;font-weight:800;line-height:1.35;">${escapeHtml(title)}</p>`,
     `<p style="margin:0;font-size:18px;line-height:1.7;color:#1f2937;">${escapeHtml(body)}</p>`,
     "</div>",
   ].join("");
