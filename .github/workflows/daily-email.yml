@@ -6,7 +6,7 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "50 11 * * *"
 
 permissions:
   contents: write
@@ -30,6 +30,21 @@ jobs:
         with:
           node-version: 24
           package-manager-cache: false
+
+      - name: Wait for 9:00 AM Sao Paulo time
+        if: github.event_name == 'schedule'
+        shell: bash
+        run: |
+          target_epoch=$(TZ=America/Sao_Paulo date -d '09:00 today' +%s)
+          current_epoch=$(TZ=America/Sao_Paulo date +%s)
+
+          if [ "$current_epoch" -lt "$target_epoch" ]; then
+            sleep_seconds=$((target_epoch - current_epoch))
+            echo "Waiting ${sleep_seconds}s for 9:00 AM in Sao Paulo."
+            sleep "$sleep_seconds"
+          else
+            echo "Sao Paulo is already past 9:00 AM. Continuing immediately."
+          fi
 
       - name: Send daily email
         env:

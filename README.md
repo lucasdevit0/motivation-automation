@@ -52,8 +52,8 @@ DRY_RUN=true node src/index.js
 
 The workflow lives at `.github/workflows/daily-email.yml`.
 
-- Scheduled cron: `0 12 * * *`
-- That corresponds to 9:00 AM in Sao Paulo on March 20, 2026
+- Scheduled cron: `50 11 * * *`
+- On March 22, 2026, that is 8:50 AM in Sao Paulo, and the workflow then waits until the Sao Paulo clock reaches exactly 9:00 AM before sending
 - It also supports manual runs via `workflow_dispatch`
 
 The workflow writes the updated `data/history.json` back to the repository after each successful run so future generations can check the last 7 entries.
