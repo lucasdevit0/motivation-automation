@@ -64,5 +64,15 @@
     "gratitudePhrase": "Notice the way a hot shower in the morning clears your mind after a restless night, offering a brief moment of solace in your busy routine. This everyday ritual reminds you of how basic self-care routines can reset your energy, even on demanding days. Acknowledging it helps you find value in these quiet, personal spaces that sustain your daily rhythm.",
     "famousQuote": "The only way to do great work is to love what you do.",
     "quoteAuthor": "Steve Jobs"
+  },
+  {
+    "sentAt": "2026-03-24T12:35:49.913Z",
+    "model": "x-ai/grok-3-mini",
+    "recipientCount": 4,
+    "motivationalPhrase": "When your workday feels relentless, pause to evaluate how you're allocating your breaks, and decide to use one for a mindful disconnect, like stepping away from screens. This targeted choice can help you preserve your focus and prevent exhaustion from building up. By making this adjustment today, you're fostering a habit of intentional rest that supports your overall resilience in managing stress.",
+    "healthSuggestion": "Today, focus on getting seven to eight hours of sleep by setting a consistent bedtime routine, such as reading a non-work-related book for ten minutes before lights out. This matters because quality sleep enhances your cognitive function and emotional regulation, helping you tackle tomorrow's challenges with clearer thinking. Start by preparing your sleep environment tonight to make the transition smooth.",
+    "gratitudePhrase": "Reflect on the dependable public transport that gets you to work on time, sparing you extra stress on crowded mornings. This routine element provides a small but steady sense of predictability in your commute, allowing you to conserve energy for what truly matters. Appreciating it helps you notice how these background supports contribute to your daily effectiveness amid life's unpredictability.",
+    "famousQuote": "We may encounter many defeats but we must not be defeated.",
+    "quoteAuthor": "Maya Angelou"
   }
 ]
