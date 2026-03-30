@@ -124,5 +124,15 @@
     "gratitudePhrase": "Notice the way a well-timed email from a colleague offers helpful feedback that lightens your workload, even in the midst of tight deadlines. This interaction highlights the value of professional support that makes collaborative efforts more manageable. Recognizing it helps you appreciate the interpersonal dynamics that ease the burdens of your everyday responsibilities.",
     "famousQuote": "The way to get started is to quit talking and begin doing.",
     "quoteAuthor": "Walt Disney"
+  },
+  {
+    "sentAt": "2026-03-30T12:42:18.972Z",
+    "model": "x-ai/grok-3-mini",
+    "recipientCount": 4,
+    "motivationalPhrase": "When your evening routine feels overshadowed by lingering work thoughts, take a moment to outline one way to transition into relaxation, like noting three items to address tomorrow. This helps you protect your personal time and recharge mentally, preventing burnout from seeping into your rest. By implementing it tonight, you're fostering a cycle of renewal that makes your daily efforts more sustainable.",
+    "healthSuggestion": "Today, try adding a serving of leafy greens to your lunch, such as spinach in a salad, to boost your intake of essential nutrients like iron and vitamins. This matters because it supports better immune function and sustained energy levels, especially when your schedule is packed with meetings and errands. Prepare it quickly by mixing it into your meal at home or ordering it with your takeout.",
+    "gratitudePhrase": "Consider the quiet efficiency of your morning coffee maker that delivers a fresh brew without much fuss, giving you a reliable start to handle the day's demands. This humble device offers a pocket of predictability in your routine, helping you approach tasks with a bit more steadiness amid unpredictability. Recognizing it allows you to cherish the subtle ways technology eases everyday burdens.",
+    "famousQuote": "Start where you are. Use what you have. Do what you can.",
+    "quoteAuthor": "Arthur Ashe"
   }
 ]
