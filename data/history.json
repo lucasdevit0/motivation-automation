@@ -594,5 +594,15 @@
     "gratitudePhrase": "Think about the steady warmth of your favorite mug of tea or coffee that offers a comforting pause in a hectic morning, helping to ground your thoughts before the day escalates. This everyday ritual supports your emotional balance by providing a brief moment of enjoyment amid the rush, making it easier to tackle tasks with a clearer head. Recognizing it encourages you to find solace in simple, repeatable pleasures that ease the weight of daily demands.",
     "famousQuote": "The best way out is always through.",
     "quoteAuthor": "Robert Frost"
+  },
+  {
+    "sentAt": "2026-05-21T14:59:45.978Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small action that aligns with your long-term goals. Progress often comes from steady, deliberate choices rather than grand gestures. Recognizing these moments helps you stay connected to your purpose amid daily demands.",
+    "healthSuggestion": "Choose to stand up and stretch your legs every hour, even if just for a minute. It boosts circulation, reduces tension, and reminds you to honor your body’s need for movement during long periods of sitting.",
+    "gratitudePhrase": "Appreciate the quiet moments when you notice your surroundings — the familiar sounds, the comfort of routine, or a kind word from someone. These details anchor you in the present and strengthen your capacity to face tomorrow with resilience.",
+    "famousQuote": "The only way to do great work is to love what you do.",
+    "quoteAuthor": "Steve Jobs"
   }
 ]
