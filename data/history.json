@@ -604,5 +604,15 @@
     "gratitudePhrase": "Appreciate the quiet moments when you notice your surroundings — the familiar sounds, the comfort of routine, or a kind word from someone. These details anchor you in the present and strengthen your capacity to face tomorrow with resilience.",
     "famousQuote": "The only way to do great work is to love what you do.",
     "quoteAuthor": "Steve Jobs"
+  },
+  {
+    "sentAt": "2026-05-21T15:19:40.729Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "In the midst of a busy day, consider pausing to clarify one priority that often gets lost in the noise. Focusing on a single meaningful step can re-center your efforts and make your workload feel more manageable. Taking that moment today reinforces your ability to prioritize with intention, even when everything feels urgent.",
+    "healthSuggestion": "Today, aim to drink a glass of water before each meal to stay hydrated, which supports your energy levels and mental clarity. Proper hydration helps your body function optimally under stress and keeps fatigue at bay, making it easier to stay focused and productive. Set a reminder if needed to turn this simple act into a consistent habit.",
+    "gratitudePhrase": "Think about the small habits that bring you comfort, like preparing a favorite meal or enjoying a brief walk to clear your mind. These moments of routine provide stability and a sense of control amid the chaos, helping you to reconnect with what grounds you. Recognizing their value encourages you to nurture these simple pleasures daily.",
+    "famousQuote": "The future depends on what you do today.",
+    "quoteAuthor": "Mahatma Gandhi"
   }
 ]
