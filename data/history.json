@@ -634,5 +634,15 @@
     "gratitudePhrase": "Pay attention to the ordinary support systems around you, like a reliable coworker or the quiet rhythm of your daily routine. Recognizing these small but steady sources of support reminds you that resilience is built through everyday moments of stability. Cultivating appreciation for them can help you feel more anchored amid life's busyness.",
     "famousQuote": "You are never too old to set another goal or to dream a new dream.",
     "quoteAuthor": "C.S. Lewis"
+  },
+  {
+    "sentAt": "2026-05-24T12:47:21.279Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small, meaningful choice—like sending a quick note of appreciation to a colleague or partner—that can shift the energy of your interactions. These tiny actions often ripple outward, reinforcing your sense of agency and connection. Remember, incremental steps rooted in awareness make the biggest difference over time.",
+    "healthSuggestion": "Set a timer to remind you to stand up and stretch your legs every hour. Moving intentionally breaks the cycle of prolonged sitting, which can drain your energy and cause discomfort. Even a brief, two-minute stretch can refresh your mind and ease physical tension.",
+    "gratitudePhrase": "Take a moment to acknowledge the ordinary comforts—the warmth of your home, a familiar routine, or a kind word—that serve as quiet anchors in your busy life. Recognizing these small constants nurtures resilience and reminds you that stability is often found in everyday moments.",
+    "famousQuote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "quoteAuthor": "Zig Ziglar"
   }
 ]
