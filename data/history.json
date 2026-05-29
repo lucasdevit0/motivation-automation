@@ -674,5 +674,15 @@
     "gratitudePhrase": "Observe the subtle routines or familiar sounds that quietly support your daily rhythm—like the aroma of your morning coffee or the routine of preparing your workspace. Recognizing these small constants fosters a sense of stability and appreciation, grounding you amid the chaos of your day. Appreciating such grounded moments can deepen your resilience.",
     "famousQuote": "The only limit to our realization of tomorrow is our doubts of today.",
     "quoteAuthor": "Franklin D. Roosevelt"
+  },
+  {
+    "sentAt": "2026-05-29T14:22:35.358Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small act that aligns with your values—whether it's listening more intently in a conversation or setting a clear boundary for your work. These intentional choices reinforce your sense of control and help prioritize what truly matters amid daily demands. Remember, consistency in small actions builds the foundation for meaningful progress.",
+    "healthSuggestion": "Choose to take a few moments for gentle movement, like a brief seated stretch or a purposeful walk around your space. This not only relieves physical tension but also provides a mental reset, helping you approach tasks with renewed clarity. Incorporate this habit into your day to sustain your energy and reduce stress.",
+    "gratitudePhrase": "Notice the overlooked details of your routine—the familiar scent of your morning coffee, the steady rhythm of your footsteps, or the quiet support of a recent conversation. Recognizing these small constants allows you to feel anchored and appreciative of the everyday stability they offer. These moments of awareness nurture resilience in the midst of busyness.",
+    "famousQuote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    "quoteAuthor": "Amelia Earhart"
   }
 ]
