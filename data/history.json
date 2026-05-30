@@ -684,5 +684,15 @@
     "gratitudePhrase": "Notice the overlooked details of your routine—the familiar scent of your morning coffee, the steady rhythm of your footsteps, or the quiet support of a recent conversation. Recognizing these small constants allows you to feel anchored and appreciative of the everyday stability they offer. These moments of awareness nurture resilience in the midst of busyness.",
     "famousQuote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
     "quoteAuthor": "Amelia Earhart"
+  },
+  {
+    "sentAt": "2026-05-30T12:49:02.671Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today offers an opportunity to pursue just one small step that directly supports your well-being or goals. Sometimes, progress is less about big leaps and more about consistent, mindful choices you make each day. Trust that even modest, deliberate efforts accumulate into meaningful change over time.",
+    "healthSuggestion": "Pick a single healthy habit to focus on today—like adding an extra serving of vegetables to your meal or taking a brief walk after work. These small adjustments can subtly boost your energy and resilience, especially when built into your routine consistently. Clear, simple actions often yield the most sustainable benefits.",
+    "gratitudePhrase": "Notice the ordinary moments—perhaps a brief exchange with a colleague or a quiet moment before starting a task—that remind you of your capacity for connection and stability. Recognizing these small anchors can deepen your sense of grounding amid the busyness, reinforcing your resilience in daily life.",
+    "famousQuote": "The only way to do great work is to love what you do.",
+    "quoteAuthor": "Steve Jobs"
   }
 ]
