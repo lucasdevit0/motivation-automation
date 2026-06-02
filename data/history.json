@@ -714,5 +714,15 @@
     "gratitudePhrase": "Reflect on a quiet moment or gesture that brought you a sense of ease recently—like a supportive smile or a moment of solitude. Recognizing these subtle sources of comfort grounds you and reminds you that everyday kindnesses often sustain us through turbulent times.",
     "famousQuote": "The only way to achieve the impossible is to believe it is possible.",
     "quoteAuthor": "Charles Kingsleigh"
+  },
+  {
+    "sentAt": "2026-06-02T15:45:50.848Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, take a moment to identify one small, achievable action that aligns with your current priorities. It’s easy to get overwhelmed with everything on your plate, but focusing on one realistic step helps you make tangible progress without losing steam. Trust that consistent, manageable efforts keep you moving forward steadily.",
+    "healthSuggestion": "Choose to prioritize one nourishing snack or meal today—something that fuels both your body and mind. Making mindful food choices supports your energy levels and resilience, especially during hectic days. Noticing what you eat reminds you that even small decisions can have a meaningful impact.",
+    "gratitudePhrase": "Observe the ordinary interactions or routines that provide a sense of continuity—like a quick chat with a colleague or the familiar rhythm of your morning. Recognizing these simple moments fosters a quiet appreciation for the stability they bring amidst your busy life. These small acknowledgments strengthen your capacity to handle daily fluctuations.",
+    "famousQuote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+    "quoteAuthor": "Charles Darwin"
   }
 ]
