@@ -764,5 +764,15 @@
     "gratitudePhrase": "Reflect on the quiet routines and familiar interactions that quietly support your day's rhythm—perhaps a shared smile or a brief exchange. Recognizing these small moments helps anchor you and nurtures a sense of belonging in your daily life. Appreciating small constants sustains resilience in the face of busyness.",
     "famousQuote": "The future depends on what you do today.",
     "quoteAuthor": "Mahatma Gandhi"
+  },
+  {
+    "sentAt": "2026-06-07T13:08:56.673Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today is another chance to align your actions with what truly matters. Focus on one small, deliberate choice that supports a goal you've been holding onto—whether it’s setting boundaries at work or carving out a moment for yourself. These intentional acts, no matter how modest, accumulate into meaningful progress.",
+    "healthSuggestion": "Pick one activity today that enhances your physical well-being—such as a brief walk during lunch or stretching after a long stretch at your desk. Not only does movement boost your energy, but it also clears your mind for the next task, making your day more sustainable.",
+    "gratitudePhrase": "Notice the unassuming moments that quietly support your daily rhythm—like the routine of preparing your morning coffee or a brief exchange with a colleague. Recognizing these simple constants reminds you that stability often resides in the small, dependable details of everyday life.",
+    "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "quoteAuthor": "Ralph Waldo Emerson"
   }
 ]
