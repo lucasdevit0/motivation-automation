@@ -774,5 +774,15 @@
     "gratitudePhrase": "Notice the unassuming moments that quietly support your daily rhythm—like the routine of preparing your morning coffee or a brief exchange with a colleague. Recognizing these simple constants reminds you that stability often resides in the small, dependable details of everyday life.",
     "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
     "quoteAuthor": "Ralph Waldo Emerson"
+  },
+  {
+    "sentAt": "2026-06-08T15:05:22.399Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, consider the impact of your small choices—each one is a building block for the bigger picture you’re creating. Focus on one deliberate action that aligns with your values or priorities, and give yourself credit for showing up for that step. Progress isn’t always fast, but it’s always meaningful.",
+    "healthSuggestion": "Today, set a specific goal to stand up and move for five minutes every hour. This simple habit can improve circulation, reduce stiffness, and clear your mind, especially during long periods of work or focus. Small, consistent movements keep your energy levels steady throughout the day.",
+    "gratitudePhrase": "Reflect on a moment when someone’s straightforward kindness made your day easier—perhaps a quick word of encouragement or an unexpected gesture. Recognizing these genuine connections reaffirms the simple, everyday acts that support resilience and remind us we’re not alone.",
+    "famousQuote": "The only way to do great work is to love what you do.",
+    "quoteAuthor": "Steve Jobs"
   }
 ]
