@@ -794,5 +794,15 @@
     "gratitudePhrase": "Reflect on the quiet, dependable parts of your daily routine—like preparing your favorite cup of tea or the rhythm of your commute. Recognizing these familiar rituals anchors you amidst chaos and offers a moment of grounded appreciation for the ordinary support they provide.",
     "famousQuote": "The best way to predict the future is to create it.",
     "quoteAuthor": "Peter Drucker"
+  },
+  {
+    "sentAt": "2026-06-10T14:40:50.261Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, acknowledge one area where your efforts are paying off, even if progress feels slow. Recognizing these moments helps you stay connected to your capacity for growth without the need for perfection. Trust that consistent small actions are shaping a more resilient path forward.",
+    "healthSuggestion": "Choose to incorporate one moment of movement into your day, like standing for a few minutes or stretching at your desk. Physical activity, no matter how brief, supports your energy levels and can ease the tension that accumulates during busy periods. These simple habits reinforce your physical and mental well-being.",
+    "gratitudePhrase": "Take a quiet moment to appreciate the everyday routines that keep your life steady—like the familiar sound of your morning coffee or the rhythm of your commute. Recognizing these small constants helps ground you, reminding you that stability often resides in the ordinary details you might overlook.",
+    "famousQuote": "The power of imagination makes us infinite.",
+    "quoteAuthor": "John Muir"
   }
 ]
