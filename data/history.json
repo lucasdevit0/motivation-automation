@@ -814,5 +814,15 @@
     "gratitudePhrase": "Take a moment to notice the subtle ways your environment and routines support your daily life—like the steady rhythm of your morning or the familiar comfort of a favorite task. Appreciating these constants helps ground you during hectic times and nurtures a sense of stability amidst change.",
     "famousQuote": "You are never too old to set another goal or to dream a new dream.",
     "quoteAuthor": "C.S. Lewis"
+  },
+  {
+    "sentAt": "2026-06-12T14:22:55.326Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on the small choices that shape the quality of your day—whether it’s prioritizing a brief pause or completing a key task. Recognizing your capacity to influence your experience through intentional actions can restore a sense of control amid chaos. Small, deliberate steps are the building blocks of lasting change.",
+    "healthSuggestion": "Set aside five minutes to hydrate thoroughly, perhaps with a glass of water before your next meal or during a break. Proper hydration enhances your concentration and energy, helping you navigate your commitments with more ease. Even brief, mindful efforts count toward your overall well-being.",
+    "gratitudePhrase": "Reflect on the everyday routines or silent supports that keep your life functioning—like a familiar routine or a quiet moment of calm. Acknowledging these constants fosters a sense of groundedness and reminds you that resilience often resides in the small, dependable elements of daily life.",
+    "famousQuote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "quoteAuthor": "Buddha"
   }
 ]
