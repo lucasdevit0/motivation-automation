@@ -864,5 +864,15 @@
     "gratitudePhrase": "Take a brief moment to appreciate the ordinary routines that sustain your daily life—like a dependable morning ritual or the quiet moments of transition between tasks. Recognizing these small constants helps ground you and reminds you that stability is often woven into everyday details.",
     "famousQuote": "The more you praise and celebrate your life, the more there is in life to celebrate.",
     "quoteAuthor": "Oprah Winfrey"
+  },
+  {
+    "sentAt": "2026-06-17T14:39:29.405Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, consider one decision you can make that aligns closely with what truly matters to you. Even small, purposeful choices can create a ripple effect, helping you feel more in control amid busy days. Trust that consistency in these choices builds resilience over time.",
+    "healthSuggestion": "Pick one moment today to pause and take a slow, deep breath before responding to a stressful situation. This brief pause can re-center your mind, reduce tension, and help you approach your tasks with more clarity. Small pauses like this serve as quiet anchors in a hectic schedule.",
+    "gratitudePhrase": "Reflect on a recent ordinary interaction or small routine that brought a moment of calm or connection. Recognizing these everyday elements helps ground you, reminding you that stability often lies in the unassuming details of daily life.",
+    "famousQuote": "It does not matter how slowly you go as long as you do not stop.",
+    "quoteAuthor": "Confucius"
   }
 ]
