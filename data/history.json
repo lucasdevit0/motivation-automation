@@ -894,5 +894,15 @@
     "gratitudePhrase": "Consider the quiet, reliable routines that quietly carry you through your day—perhaps a familiar meal, a regular conversation, or a favorite ritual. Recognizing these constants fosters a sense of steadiness, anchoring you amidst the unpredictable flow of life.",
     "famousQuote": "The only limit to our realization of tomorrow will be our doubts of today.",
     "quoteAuthor": "Franklin D. Roosevelt"
+  },
+  {
+    "sentAt": "2026-06-20T13:12:45.053Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, take a moment to identify one small step that aligns with your long-term intentions. Even marginal progress is a sign of your perseverance and capacity to shape your days proactively. Trust that consistent, manageable actions are the building blocks of resilience.",
+    "healthSuggestion": "Choose yesterday’s missed opportunity: walk for ten minutes outside during a break. Fresh air and gentle movement support your physical and mental clarity, helping you approach your tasks with renewed focus and steadiness. Small, intentional actions keep your energy balanced amid a busy schedule.",
+    "gratitudePhrase": "Reflect on the ordinary interactions or routines that quietly support your sense of stability—perhaps a helpful coworker or a moment of quiet in your day. Recognizing these everyday constants nurtures a sense of grounding and reminds you that stability often resides in the familiar details.",
+    "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "quoteAuthor": "Ralph Waldo Emerson"
   }
 ]
