@@ -904,5 +904,15 @@
     "gratitudePhrase": "Reflect on the ordinary interactions or routines that quietly support your sense of stability—perhaps a helpful coworker or a moment of quiet in your day. Recognizing these everyday constants nurtures a sense of grounding and reminds you that stability often resides in the familiar details.",
     "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
     "quoteAuthor": "Ralph Waldo Emerson"
+  },
+  {
+    "sentAt": "2026-06-21T13:26:16.008Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one task or interaction that genuinely matters to you. Let your attention be deep rather than distracted, and give yourself permission to approach it with patience. Small, intentional steps like this can realign your day with what truly counts.",
+    "healthSuggestion": "Choose to incorporate a short, mindful walk during a break, even if it’s just for five minutes. Moving your body gently outside can clear your mind and boost your focus, making the rest of your day feel more manageable and balanced.",
+    "gratitudePhrase": "Take a moment to notice the quiet, unremarkable routines that support your daily life—like preparing your morning coffee or tidying your workspace. Recognizing these small constants reinforces a sense of stability amidst the chaos.",
+    "famousQuote": "Transformation is often more about the small, steady steps than sweeping changes.",
+    "quoteAuthor": "Rachel Hollis"
   }
 ]
