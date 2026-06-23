@@ -924,5 +924,15 @@
     "gratitudePhrase": "Reflect on the small, dependable routines that quietly sustain your daily rhythm—like a favorite coffee in the morning or a brief exchange with a colleague. Part of grounding yourself is appreciating these unassuming constants that give your day a sense of stability and familiarity.",
     "famousQuote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
     "quoteAuthor": "Winston Churchill"
+  },
+  {
+    "sentAt": "2026-06-23T14:06:33.857Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small step you can take that aligns with your current priorities. Recognizing that progress doesn’t have to be grand to be meaningful helps you stay grounded in reality. Each intentional move you make builds a quieter resilience within you.",
+    "healthSuggestion": "Dedicate five minutes to mindful breathing or gentle stretching during a pause—this can be between tasks or meetings. These brief moments support your physical tension and mental clarity, helping you navigate stress more effectively and stay present.",
+    "gratitudePhrase": "Pause to acknowledge a routine or small interaction that provides stability—like your daily coffee or a quick chat with a coworker. Recognizing these ordinary anchors reminds you that consistency, no matter how simple, fosters a sense of steadiness and familiarity.",
+    "famousQuote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "quoteAuthor": "Zig Ziglar"
   }
 ]
