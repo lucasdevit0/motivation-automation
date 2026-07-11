@@ -1104,5 +1104,15 @@
     "gratitudePhrase": "Notice a routine or simple moment—perhaps the feel of your hands on the steering wheel or the sound of your footsteps—that offers a sense of continuity. Recognizing these small constants can deepen your appreciation for the stability in your daily life, even when things feel uncertain.",
     "famousQuote": "The only limit to our realization of tomorrow is our doubts of today.",
     "quoteAuthor": "Franklin D. Roosevelt"
+  },
+  {
+    "sentAt": "2026-07-11T12:40:15.737Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, choose one task that aligns with your larger goals, and commit to completing it without distraction. Completing small, meaningful steps creates a sense of progress and reinforces your ability to steer your day with intention. Each step forward, no matter how small, is a testament to your ongoing effort.",
+    "healthSuggestion": "Find a moment to replace one habitual snack or beverage with a healthier option, like a piece of fruit or a glass of water. This small change nurtures your body and mind gradually, proving that consistent choices add up over time. It’s not about perfection but about nurturing your well-being one decision at a time.",
+    "gratitudePhrase": "Take note of the simple routines or exchanges that support your daily rhythm—perhaps the steady rhythm of your morning routine or a brief conversation that lifts your spirits. Recognizing these constants helps anchor you amidst the busyness and reminds you of the small, reliable foundations of your life.",
+    "famousQuote": "The best way to predict the future is to create it.",
+    "quoteAuthor": "Peter Drucker"
   }
 ]
