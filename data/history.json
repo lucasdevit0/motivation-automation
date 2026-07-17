@@ -1164,5 +1164,15 @@
     "gratitudePhrase": "Notice a subtle routine or detail that provides a sense of stability—perhaps the routine of preparing your morning coffee or the familiar background sounds that mark your day. Recognizing these constants grounds you in the present, even amid the busyness and stress.",
     "famousQuote": "Success is not the key to happiness. Happiness is the key to success.",
     "quoteAuthor": "Albert Schweitzer"
+  },
+  {
+    "sentAt": "2026-07-17T12:48:19.643Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small act that embodies your intentions—whether it's completing a task or pausing for a moment of reflection. These deliberate choices, no matter how minor, accumulate to shape your overall sense of momentum and confidence. Trust that each small step is a meaningful move forward in your unique journey.",
+    "healthSuggestion": "Take a few minutes to gently stretch or walk during a break, paying attention to how your body responds. This simple action can lift your energy, improve circulation, and create a subtle shift in your mental clarity, making your day more manageable and grounded.",
+    "gratitudePhrase": "Notice the ordinary details that provide stability in your routine—perhaps the steady rhythm of your breath or the familiar colors in your workspace. Recognizing these small constants helps reinforce your connection to the present moment, providing a foundation of calm amid the busyness.",
+    "famousQuote": "The future depends on what you do today.",
+    "quoteAuthor": "Mahatma Gandhi"
   }
 ]
