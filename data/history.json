@@ -1174,5 +1174,15 @@
     "gratitudePhrase": "Notice the ordinary details that provide stability in your routine—perhaps the steady rhythm of your breath or the familiar colors in your workspace. Recognizing these small constants helps reinforce your connection to the present moment, providing a foundation of calm amid the busyness.",
     "famousQuote": "The future depends on what you do today.",
     "quoteAuthor": "Mahatma Gandhi"
+  },
+  {
+    "sentAt": "2026-07-18T12:38:51.814Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today is an opportunity to focus on one task that truly matters, even if it’s small. When you give your full attention to that one thing, it creates a ripple of momentum that can carry you through more complex challenges. Consistent small efforts build the foundation for lasting progress.",
+    "healthSuggestion": "Set a quiet alarm to remind yourself to take a brief deep-breathing pause mid-morning. Just a few deep, intentional breaths can reduce tension and bring clarity, helping you approach your work with steadiness and presence.",
+    "gratitudePhrase": "Notice the small acts and routines that support your day—perhaps a moment of quiet before a busy period or the satisfaction of checking off a task. Acknowledging these everyday anchors helps you appreciate the stability they provide amid life's inevitable busyness.",
+    "famousQuote": "Start where you are. Use what you have. Do what you can.",
+    "quoteAuthor": "Arthur Ashe"
   }
 ]
