@@ -1204,5 +1204,15 @@
     "gratitudePhrase": "Notice a routine or detail—like the feel of your chair supporting you or the routine of your morning coffee—that quietly underpins your day. Recognizing these steady elements allows you to anchor yourself in the present, providing a sense of stability amidst life's inevitable busyness.",
     "famousQuote": "The only way to do great work is to love what you do.",
     "quoteAuthor": "Steve Jobs"
+  },
+  {
+    "sentAt": "2026-07-21T13:05:07.992Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, consider the subtle impact of your choices—each small action you take can create a sense of forward movement. When life feels overwhelming, anchoring yourself in one meaningful step can help you regain clarity and control. Progress often unfolds through these quiet moments of intentionality.",
+    "healthSuggestion": "Pick one activity today—like drinking a glass of water or walking around your workspace—that reconnects you with your body. These simple acts support your physical resilience and mental focus, making it easier to handle stress and stay grounded.",
+    "gratitudePhrase": "Take a moment to notice one small detail in your environment that offers comfort or stability—whether it’s a familiar sound, a routine task, or a favorite corner. Recognizing these constants helps you feel more present and secure amid daily demands.",
+    "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "quoteAuthor": "Ralph Waldo Emerson"
   }
 ]
