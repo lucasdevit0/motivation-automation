@@ -1214,5 +1214,15 @@
     "gratitudePhrase": "Take a moment to notice one small detail in your environment that offers comfort or stability—whether it’s a familiar sound, a routine task, or a favorite corner. Recognizing these constants helps you feel more present and secure amid daily demands.",
     "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
     "quoteAuthor": "Ralph Waldo Emerson"
+  },
+  {
+    "sentAt": "2026-07-22T13:10:05.908Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small choice that aligns clearly with your current priorities. Whether it’s a single task or a moment to pause and reflect, these intentional acts cultivate a sense of control and purpose. Remember, even minor steps contribute to a larger sense of momentum and steadiness.",
+    "healthSuggestion": "Take five minutes to hydrate consciously, paying attention to the sensation of the water. Proper hydration not only supports physical health but also sharpens mental clarity, helping you feel more grounded amid your busy day.",
+    "gratitudePhrase": "Notice a simple element of your environment that provides comfort or stability—maybe the warmth of your coffee or the familiar rhythm of your routine. Recognizing these constants can help anchor you in the present, offering quiet reassurance as you navigate your day.",
+    "famousQuote": "The best way out is always through.",
+    "quoteAuthor": "Robert Frost"
   }
 ]
