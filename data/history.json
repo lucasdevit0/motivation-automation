@@ -1224,5 +1224,15 @@
     "gratitudePhrase": "Notice a simple element of your environment that provides comfort or stability—maybe the warmth of your coffee or the familiar rhythm of your routine. Recognizing these constants can help anchor you in the present, offering quiet reassurance as you navigate your day.",
     "famousQuote": "The best way out is always through.",
     "quoteAuthor": "Robert Frost"
+  },
+  {
+    "sentAt": "2026-07-23T13:12:28.362Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, choose to focus on one meaningful action rather than the entire day’s to-do list. Recognizing your capacity to handle just one task well can restore your sense of control and momentum. Small, deliberate steps often pave the way for bigger achievements over time.",
+    "healthSuggestion": "Set aside five minutes to gently breathe and stretch, paying close attention to how your body feels. This simple break can clear mental fatigue, release tension, and prepare you to approach your tasks with a fresh perspective.",
+    "gratitudePhrase": "Reflect on an everyday detail—perhaps the quiet comfort of a familiar routine or the small kindness of a colleague—that quietly supports your day. Appreciating these moments keeps you rooted in the present and reminds you of the stability found in small daily constants.",
+    "famousQuote": "Do not wait for the perfect moment, take the moment and make it perfect.",
+    "quoteAuthor": "Unknown"
   }
 ]
