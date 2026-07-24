@@ -1234,5 +1234,15 @@
     "gratitudePhrase": "Reflect on an everyday detail—perhaps the quiet comfort of a familiar routine or the small kindness of a colleague—that quietly supports your day. Appreciating these moments keeps you rooted in the present and reminds you of the stability found in small daily constants.",
     "famousQuote": "Do not wait for the perfect moment, take the moment and make it perfect.",
     "quoteAuthor": "Unknown"
+  },
+  {
+    "sentAt": "2026-07-24T13:06:16.285Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, recognize the significance of a single choice—whether setting a boundary or pausing briefly. Small, deliberate decisions reinforce your sense of agency in a world filled with competing demands. Trust that these moments of intentionality have a cumulative power to shape your experience.",
+    "healthSuggestion": "Identify one opportunity to move your body, perhaps by taking the stairs or walking outside for a few minutes. Physical activity, no matter how modest, nurtures your resilience and provides a much-needed reset amid a hectic day, grounding you in your body’s awareness.",
+    "gratitudePhrase": "Pause to appreciate the small routines or familiar sights that quietly support your daily rhythm—be it a favorite piece of music or the steady hum of your environment. Savoring these constants reconnects you to the here and now, anchoring your day in what remains reliable and real.",
+    "famousQuote": "The mind is everything. What you think you become.",
+    "quoteAuthor": "Buddha"
   }
 ]
