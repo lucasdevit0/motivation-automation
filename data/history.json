@@ -1244,5 +1244,15 @@
     "gratitudePhrase": "Pause to appreciate the small routines or familiar sights that quietly support your daily rhythm—be it a favorite piece of music or the steady hum of your environment. Savoring these constants reconnects you to the here and now, anchoring your day in what remains reliable and real.",
     "famousQuote": "The mind is everything. What you think you become.",
     "quoteAuthor": "Buddha"
+  },
+  {
+    "sentAt": "2026-07-25T12:44:59.743Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today offers a chance to pause and identify one small act that aligns with your values. When you commit to that act, you reinforce your capacity to shape your day with intention. These modest choices, consistently made, form the backbone of meaningful progress.",
+    "healthSuggestion": "Choose to add one serving of vegetables to your meals today—perhaps in a salad or as a side. This simple addition supports sustained energy and a balanced mood, helping you navigate your commitments with more resilience.",
+    "gratitudePhrase": "Notice the ordinary moments—such as the feel of your feet on the ground or a brief exchange with someone—that quietly sustain your daily rhythm. Recognizing these small constants can deepen your sense of steadiness amidst the busy flow of life.",
+    "famousQuote": "Act as if what you do makes a difference. It does.",
+    "quoteAuthor": "William James"
   }
 ]
