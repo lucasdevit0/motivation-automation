@@ -1284,5 +1284,15 @@
     "gratitudePhrase": "Reflect on a simple detail in your environment that offers quiet comfort—whether it’s the familiar rhythm of a routine or a familiar sound. Noticing these constants helps ground you in the present and provides reassurance amid daily demands.",
     "famousQuote": "It does not matter how slowly you go as long as you do not stop.",
     "quoteAuthor": "Confucius"
+  },
+  {
+    "sentAt": "2026-07-29T13:24:38.355Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, consider a small step that challenges you just enough to feel capable without overwhelm. Maybe it’s sending one email or taking a brief moment to plan. These deliberate efforts build a quiet sense of momentum that sustains your day.",
+    "healthSuggestion": "Pick a specific time to focus solely on a 3-minute mindful breath session, inhaling slowly and exhaling fully. This pause can reset your nervous system, helping you manage stress and maintain clarity throughout your busy schedule.",
+    "gratitudePhrase": "Notice a familiar detail that quietly supports your daily rhythm—perhaps a favorite chair, a familiar scent, or a comforting routine. Acknowledging these small constants reminds you of the steady foundations amidst life's constant flux.",
+    "famousQuote": "Success is not the key to happiness. Happiness is the key to success.",
+    "quoteAuthor": "Albert Schweitzer"
   }
 ]
