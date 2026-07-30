@@ -1294,5 +1294,15 @@
     "gratitudePhrase": "Notice a familiar detail that quietly supports your daily rhythm—perhaps a favorite chair, a familiar scent, or a comforting routine. Acknowledging these small constants reminds you of the steady foundations amidst life's constant flux.",
     "famousQuote": "Success is not the key to happiness. Happiness is the key to success.",
     "quoteAuthor": "Albert Schweitzer"
+  },
+  {
+    "sentAt": "2026-07-30T13:15:19.896Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one thing you can do that aligns with your longer-term values. Even if it’s small, recognizing your ability to choose intentionally reminds you that progress is built one step at a time. Trust that these moments of clarity help you stay connected to what truly matters.",
+    "healthSuggestion": "Take five minutes during a break to hydrate intentionally, sipping slowly and paying attention to the sensation. Proper hydration supports your focus, mood, and energy, making every effort more sustainable throughout your day.",
+    "gratitudePhrase": "Notice the familiar rhythm of your day—whether it’s a routine, the comforting presence of someone, or a small space that feels like your anchor. Appreciating these familiar elements can help you feel steadier amid the busyness, grounding you in the reality of everyday life.",
+    "famousQuote": "Do what you can, with what you have, where you are.",
+    "quoteAuthor": "Theodore Roosevelt"
   }
 ]
