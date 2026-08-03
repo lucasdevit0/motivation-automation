@@ -1334,5 +1334,15 @@
     "gratitudePhrase": "Pause to notice a small detail that provides comfort, like the way sunlight filters through a window or a familiar scent. Recognizing these subtleties can anchor you amidst the busyness, reminding you of life's quiet constants.",
     "famousQuote": "The future depends on what you do today.",
     "quoteAuthor": "Mahatma Gandhi"
+  },
+  {
+    "sentAt": "2026-08-03T14:02:05.020Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small decision that feels aligned with your current priorities. It might seem minor, but choosing consciously today reinforces your ability to shape your path, step by step. Trust that consistent small acts accumulate into meaningful change over time.",
+    "healthSuggestion": "Take five minutes to pause and check in with your breathing—inhale for a count of four, exhale for a count of four. This simple practice can help regulate your nerves and improve your focus, making it easier to handle the demands of your day.",
+    "gratitudePhrase": "Notice a familiar routine or detail that quietly supports your daily rhythm—perhaps the way a certain task feels familiar or the comfort of a habitual action. Recognizing these subtle constants can deepen your sense of steadiness amidst the everyday flux.",
+    "famousQuote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "quoteAuthor": "Franklin D. Roosevelt"
   }
 ]
