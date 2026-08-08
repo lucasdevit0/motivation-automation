@@ -1384,5 +1384,15 @@
     "gratitudePhrase": "Reflect on a simple routine or familiar environment that provides a steady point of comfort—like the way your workspace feels or a familiar morning ritual. Recognizing these small constants can strengthen your sense of stability amid the unfolding hours.",
     "famousQuote": "Do what you can, with what you have, where you are.",
     "quoteAuthor": "Theodore Roosevelt"
+  },
+  {
+    "sentAt": "2026-08-08T12:02:34.821Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one small decision that aligns with your values and current priorities. Even a minor shift can reaffirm your ability to steer your day intentionally, creating a sense of control amid the daily bustle. Trust that consistent, thoughtful choices compound over time into meaningful progress.",
+    "healthSuggestion": "Choose one moment to stand or sit in a posture that promotes alertness—perhaps adjusting your workspace or taking a quick stretch. This simple pause can boost circulation and mental clarity, helping you meet moments of stress with more resilience.",
+    "gratitudePhrase": "Notice a familiar part of your environment or routine that provides a steadying presence—like the rhythm of a morning ritual or a comforting sound. Recognizing these small constants can deepen your appreciation for the quiet stability they bring in times of flux.",
+    "famousQuote": "The only way to do great work is to love what you do.",
+    "quoteAuthor": "Steve Jobs"
   }
 ]
