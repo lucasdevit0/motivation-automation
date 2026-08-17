@@ -1474,5 +1474,15 @@
     "gratitudePhrase": "Take a moment to notice a routine or environment that provides a quiet foundation for your daily life, whether it’s the familiar scent of your coffee or the comfort of a routine. Recognizing these constants can ground you and foster a sense of stability in times of change or stress.",
     "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
     "quoteAuthor": "Ralph Waldo Emerson"
+  },
+  {
+    "sentAt": "2026-08-17T12:00:29.444Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on a single task that feels manageable yet meaningful—perhaps reaching out to someone you value or tidying a small part of your environment. These actions remind you that progress isn’t always dramatic, but it’s steady and rooted in your everyday choices. Trust in the quiet power of consistent effort.",
+    "healthSuggestion": "Choose to incorporate one intentional pause during your day—standing up, stretching, or taking a few deep breaths before continuing. This small act can help regulate your nervous system, clear mental fog, and sustain your energy for the tasks ahead.",
+    "gratitudePhrase": "Reflect on a simple daily routine that brings you a sense of continuity, whether it’s your morning coffee, a shared smile, or a familiar view. Recognizing these constants can reinforce your resilience and anchor you amid the demands of work and life.",
+    "famousQuote": "The only way to do great work is to love what you do.",
+    "quoteAuthor": "Steve Jobs"
   }
 ]
