@@ -1614,5 +1614,15 @@
     "gratitudePhrase": "Notice a familiar detail in your environment—a comforting scent, the rhythm of your daily routine, or a simple object that grounds you. Recognizing these constants anchors you amid the flow of responsibilities, reminding you that stability persists in subtle ways.",
     "famousQuote": "The best way out is always through.",
     "quoteAuthor": "Robert Frost"
+  },
+  {
+    "sentAt": "2026-08-31T18:08:54.308Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, identify one small decision that aligns with your long-term values or goals. Making intentional choices—even in minor moments—reinforces your capacity to shape your days amid work and stress. These consistent steps build a quiet confidence that you’re moving in the right direction.",
+    "healthSuggestion": "Choose to take a few minutes to walk outside or around your workspace, paying close attention to your breath and surroundings. Moving your body and reconnecting with fresh air can clear mental fatigue and provide a subtle but meaningful boost in energy and focus.",
+    "gratitudePhrase": "Think of an everyday detail that quietly supports your routine, like a familiar sound or the feel of a reliable chair. Recognizing these constants helps you feel anchored, especially on busy days when everything else feels uncertain.",
+    "famousQuote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "quoteAuthor": "Franklin D. Roosevelt"
   }
 ]
