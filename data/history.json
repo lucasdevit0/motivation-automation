@@ -1644,5 +1644,15 @@
     "gratitudePhrase": "Notice a simple detail in your environment that often goes unnoticed—a familiar scent, the texture of an object, or a quiet sound. Recognizing these small constants roots you in the present and reminds you that stability can be found even in everyday subtlety.",
     "famousQuote": "The only way to do great work is to love what you do.",
     "quoteAuthor": "Steve Jobs"
+  },
+  {
+    "sentAt": "2026-09-03T15:12:10.411Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Every day offers a handful of moments where your choices can usher in a sense of clarity and control. Focus on one of these small opportunities — whether it's clarifying a priority or reaching out to someone — and trust that even modest steps contribute to your larger goals.",
+    "healthSuggestion": "Today, commit to a five-minute walk during a break or after work. Moving your body gently can break up the day's static, refresh your mind, and support your resilience in the face of stress.",
+    "gratitudePhrase": "Take a moment to notice the everyday rhythm of your surroundings — the way light hits a familiar surface or the quiet comfort of your routine tasks. Recognizing these small constants can ground you in the present and remind you that stability often resides in the details.",
+    "famousQuote": "Do what you can, with what you have, where you are.",
+    "quoteAuthor": "Theodore Roosevelt"
   }
 ]
