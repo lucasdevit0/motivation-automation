@@ -1734,5 +1734,15 @@
     "gratitudePhrase": "Reflect on a simple detail in your environment that provides comfort or grounding—perhaps a familiar scent, texture, or sound. Taking a moment to notice these constants helps you stay connected to what sustains you through unpredictable days.",
     "famousQuote": "The only limit to our realization of tomorrow is our doubts of today.",
     "quoteAuthor": "Franklin D. Roosevelt"
+  },
+  {
+    "sentAt": "2026-09-12T14:23:01.963Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, pick one small task that you can complete with full attention, whether it’s tidying your desk or drafting a quick message. These moments remind you that steady progress often comes from the smallest, consistent efforts. Trust that each intentional step adds up over time, building your resilience.",
+    "healthSuggestion": "Pause for a moment before your next meal or break to take three deliberate breaths—inhale slowly, hold briefly, and exhale gently. This simple practice can help center your mind and regulate your body, providing a quiet anchor amid busy routines.",
+    "gratitudePhrase": "Notice a small detail in your environment—a familiar sound, texture, or gesture—that quietly supports your daily rhythm. Recognizing these constants grounds you, offering reassurance in the midst of cluttered days and reminding you of the stability that exists in ordinary moments.",
+    "famousQuote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "quoteAuthor": "Confucius"
   }
 ]
