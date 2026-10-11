@@ -2014,5 +2014,15 @@
     "gratitudePhrase": "Pause to reflect on the quiet routines or familiar places that provide a sense of stability—like a morning coffee, a supportive conversation, or a personal ritual. Recognizing these constants helps anchor your day, even amid unpredictability, and deepens your appreciation for the ordinary moments that sustain you.",
     "famousQuote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
     "quoteAuthor": "Zig Ziglar"
+  },
+  {
+    "sentAt": "2026-10-11T16:46:34.646Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, instead of aiming for perfection, focus on one small choice that advances your priorities. It could be as simple as pausing before responding or breaking a larger task into manageable steps. Such mindful actions build a foundation of steadiness in your busy days.",
+    "healthSuggestion": "Take five minutes to prepare a balanced snack—something with protein and vegetables—that will nourish your body and sustain your energy. Investing in small, nutritious moments can significantly influence how you feel physically and mentally throughout the day.",
+    "gratitudePhrase": "Reflect on a familiar routine or environment that offers you a sense of stability—whether it’s your morning coffee, a trusted workspace, or a simple gesture from someone you care about. Recognizing these constants helps you feel anchored amid life’s inevitable fluctuations.",
+    "famousQuote": "The only way to do great work is to love what you do.",
+    "quoteAuthor": "Steve Jobs"
   }
 ]
