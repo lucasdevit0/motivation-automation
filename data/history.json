@@ -2104,5 +2104,15 @@
     "gratitudePhrase": "Take a moment to appreciate the small routines or spaces that quietly support your daily rhythm—whether it’s a favorite coffee mug, a familiar route, or a steady conversation. Recognizing these constants helps anchor you and cultivates a deeper appreciation for the ordinary supports that sustain you.",
     "famousQuote": "Strive not to be a success, but rather to be of value.",
     "quoteAuthor": "Albert Einstein"
+  },
+  {
+    "sentAt": "2026-10-20T15:50:18.013Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, consider one small decision that aligns with your true priorities—perhaps setting a boundary or dedicating time to a task that matters. These intentions, though seemingly minor, accumulate into a sense of direction and control. Trust that your consistent focus on meaningful choices shapes your experience over time.",
+    "healthSuggestion": "Choose to integrate a brief, focused movement—like a quick walk or mindful stretching—into your day. These moments support circulation, reduce tension, and rejuvenate your mental clarity, making them practical and accessible ways to care for your physical health.",
+    "gratitudePhrase": "Reflect on an ordinary detail or routine that quietly supports your daily well-being—maybe a familiar scent, a dependable habit, or a familiar space. Recognizing these small constants grounds you and nurtures appreciation for the stability woven into daily life.",
+    "famousQuote": "The best way out is always through.",
+    "quoteAuthor": "Robert Frost"
   }
 ]
