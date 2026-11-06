@@ -2254,5 +2254,15 @@
     "gratitudePhrase": "Pause to notice a small, everyday detail that often goes unnoticed—the warmth of your clothing, the steady hum of your environment, or a familiar interaction. Recognizing these constants nurtures a grounded appreciation for the supportive elements woven into your routine.",
     "famousQuote": "Little by little, one travels far.",
     "quoteAuthor": "J.R.R. Tolkien"
+  },
+  {
+    "sentAt": "2026-11-06T18:30:10.875Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on a small decision that aligns with your long-term well-being. It might be choosing to listen more intently during a conversation or setting a boundary around your time. These thoughtful choices, made consistently, gradually shape a sense of clarity and control.",
+    "healthSuggestion": "Take a moment now to stand up and walk around for a few minutes, especially if you've been seated for a while. Moving your body gently supports circulation and keeps your energy steady, making it easier to stay engaged and present throughout the day.",
+    "gratitudePhrase": "Reflect on a routine or simple gesture that brings a sense of continuity—perhaps the quiet moments before your day begins or a familiar interaction that grounds you. Recognizing these small constants helps reinforce your sense of stability amidst life's inevitable flux.",
+    "famousQuote": "Do what you can, with what you have, where you are.",
+    "quoteAuthor": "Theodore Roosevelt"
   }
 ]
