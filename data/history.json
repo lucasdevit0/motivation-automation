@@ -2304,5 +2304,15 @@
     "gratitudePhrase": "Take a quiet moment to appreciate the everyday comforts—a familiar routine, a simple act of kindness, or a fleeting glimpse of beauty—that sustain your sense of normalcy. Recognizing these small constants grounds you amid life's constant flow of change.",
     "famousQuote": "The only way to do great work is to love what you do.",
     "quoteAuthor": "Steve Jobs"
+  },
+  {
+    "sentAt": "2026-11-11T18:52:51.514Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, consider one small choice that aligns with your deeper values or priorities. It might be as simple as pausing before replying in a difficult conversation or scheduling a quiet moment for yourself. These deliberate acts, though modest, reinforce your sense of agency and cultivate resilience.",
+    "healthSuggestion": "Today, aim to replace one fleeting snack or beverage with a nourishing alternative, like a piece of fruit or a glass of herbal tea. This small shift can support your energy levels and serve as a reminder that caring for your physical needs is a daily act of self-respect.",
+    "gratitudePhrase": "Take a moment to notice the ordinary details that quietly uphold your day—perhaps the feel of your hands on the work surface or the familiar rhythm of your commute. Recognizing these small constants fosters a sense of continuity and appreciation amid life's busyness.",
+    "famousQuote": "Act as if what you do makes a difference. It does.",
+    "quoteAuthor": "William James"
   }
 ]
