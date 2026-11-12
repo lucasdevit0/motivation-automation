@@ -2314,5 +2314,15 @@
     "gratitudePhrase": "Take a moment to notice the ordinary details that quietly uphold your day—perhaps the feel of your hands on the work surface or the familiar rhythm of your commute. Recognizing these small constants fosters a sense of continuity and appreciation amid life's busyness.",
     "famousQuote": "Act as if what you do makes a difference. It does.",
     "quoteAuthor": "William James"
+  },
+  {
+    "sentAt": "2026-11-12T19:08:51.290Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Often, the most meaningful progress happens when you slow down just enough to notice your current capacity. Instead of pushing for perfection, focus today on managing what’s within your control—small, consistent efforts that keep you moving forward with steadiness and intention.",
+    "healthSuggestion": "Choose one meal today to prepare yourself mindfully, paying attention to the ingredients and your hunger cues. This deliberate act supports both your physical health and your sense of agency amid your busy schedule.",
+    "gratitudePhrase": "Take a moment to reflect on the little routines or familiar sounds that create a sense of normalcy in your day—whether it’s a favorite morning drink or a comforting silence. Recognizing these small constants helps you feel anchored amidst the chaos and change.",
+    "famousQuote": "The secret of getting ahead is getting started.",
+    "quoteAuthor": "Mark Twain"
   }
 ]
