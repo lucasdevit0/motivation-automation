@@ -2324,5 +2324,15 @@
     "gratitudePhrase": "Take a moment to reflect on the little routines or familiar sounds that create a sense of normalcy in your day—whether it’s a favorite morning drink or a comforting silence. Recognizing these small constants helps you feel anchored amidst the chaos and change.",
     "famousQuote": "The secret of getting ahead is getting started.",
     "quoteAuthor": "Mark Twain"
+  },
+  {
+    "sentAt": "2026-11-13T18:47:03.215Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, pick one task or decision that genuinely aligns with your core values. Even if it feels small in the moment, that clarity can help you navigate the busyness with a steadier mind and greater intention. Remember, consistent authentic choices build a stronger sense of purpose over time.",
+    "healthSuggestion": "Set a specific intention to pause for a deep breath before each meal today. This simple act reconnects you with your body's signals and helps you tune into nourishment rather than haste, supporting both physical health and mental clarity.",
+    "gratitudePhrase": "Pause to appreciate the ordinary moments that quietly support your day—perhaps the gentle rhythm of your morning routine or a familiar sound that provides comfort. Recognizing these small constants anchors your awareness in the present and fosters a subtle but meaningful appreciation.",
+    "famousQuote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+    "quoteAuthor": "Jane Goodall"
   }
 ]
