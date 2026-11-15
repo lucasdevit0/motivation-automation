@@ -2344,5 +2344,15 @@
     "gratitudePhrase": "Take a moment to notice the small details that support your daily rhythm—whether it’s the steady cadence of your footsteps, the taste of your morning coffee, or a familiar stretch. Recognizing these constants helps ground you amidst the busyness and brings quiet appreciation into your day.",
     "famousQuote": "Do what you can, with what you have, where you are.",
     "quoteAuthor": "Theodore Roosevelt"
+  },
+  {
+    "sentAt": "2026-11-15T17:59:28.627Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today is a gentle reminder that even amidst work and stress, your effort, no matter how small, contributes to the larger picture of your life. Recognize the power of consistent, mindful choices—these are the bricks that build resilience over time. Trust that taking one meaningful step today sustains your progress.",
+    "healthSuggestion": "Choose one opportunity today to focus on your posture or breathing—perhaps by taking a moment to stretch your neck and shoulders or to inhale deeply before a meeting. These small pauses can reduce physical tension and bring a subtle sense of clarity to your busy day.",
+    "gratitudePhrase": "Pause for a moment to appreciate the ordinary support systems around you—whether it’s the routine of your day, a familiar sight, or a simple act of kindness from someone nearby. Recognizing these everyday constants helps create a foundation of stability and quiet gratitude.",
+    "famousQuote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "quoteAuthor": "Winston Churchill"
   }
 ]
