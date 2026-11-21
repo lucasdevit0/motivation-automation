@@ -2404,5 +2404,15 @@
     "gratitudePhrase": "Take a moment to notice the small, often unnoticed details around you—perhaps the quiet rhythm of your daily routines or the familiar comfort of familiar objects. Appreciating these simple constants can ground your perspective and bring a sense of steadiness amidst the busyness.",
     "famousQuote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
     "quoteAuthor": "Ralph Waldo Emerson"
+  },
+  {
+    "sentAt": "2026-11-21T18:14:20.782Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today, focus on one practical step that aligns with your current priorities—whether it's clearing a small part of your inbox or preparing for tomorrow's tasks. Recognizing these manageable actions helps reinforce your capacity to handle bigger challenges gradually. Small, consistent efforts build a foundation of trust in your ability to navigate the day.",
+    "healthSuggestion": "Take five minutes to consciously hydrate and do a gentle stretch, especially if you've been sitting for a while. This simple act nourishes your body and resets your energy, making it easier to stay engaged and responsive throughout your busy schedule.",
+    "gratitudePhrase": "Notice the quiet support around you—like the steady sounds of your environment, or the small routines that keep your day running smoothly. Appreciating these details can deepen your sense of stability and foster a quiet gratitude for the everyday resilience that sustains you.",
+    "famousQuote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+    "quoteAuthor": "Marcel Proust"
   }
 ]
