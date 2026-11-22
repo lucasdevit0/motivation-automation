@@ -2414,5 +2414,15 @@
     "gratitudePhrase": "Notice the quiet support around you—like the steady sounds of your environment, or the small routines that keep your day running smoothly. Appreciating these details can deepen your sense of stability and foster a quiet gratitude for the everyday resilience that sustains you.",
     "famousQuote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
     "quoteAuthor": "Marcel Proust"
+  },
+  {
+    "sentAt": "2026-11-22T18:39:20.593Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today invites you to focus your attention on a task you've been postponing, even if only for a few minutes. Completing a small part of it can restore your sense of progress and provide clarity amid your busy schedule. Remember, steady steps often lead to meaningful change.",
+    "healthSuggestion": "Pause for a brisk two-minute walk around your space or step outside briefly. Moving your body in this way improves circulation, resets your focus, and helps you approach your work with a clearer mind and a healthier posture.",
+    "gratitudePhrase": "Take a moment to notice the small, habitual comforts—a familiar scent, a steady background noise, or a simple gesture—that provide stability throughout your day. Recognizing these constants helps root you in the present and fosters a quiet sense of appreciation.",
+    "famousQuote": "Do what you can, with what you have, where you are.",
+    "quoteAuthor": "Theodore Roosevelt"
   }
 ]
