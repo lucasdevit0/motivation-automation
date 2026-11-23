@@ -2424,5 +2424,15 @@
     "gratitudePhrase": "Take a moment to notice the small, habitual comforts—a familiar scent, a steady background noise, or a simple gesture—that provide stability throughout your day. Recognizing these constants helps root you in the present and fosters a quiet sense of appreciation.",
     "famousQuote": "Do what you can, with what you have, where you are.",
     "quoteAuthor": "Theodore Roosevelt"
+  },
+  {
+    "sentAt": "2026-11-23T22:55:34.435Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today is a chance to acknowledge the small victories that often go unnoticed. By shifting your focus to a minor task or decision, you build momentum without feeling overwhelmed. These moments accumulate and reinforce your capacity for steady progress.",
+    "healthSuggestion": "Choose one simple action today, like drinking a glass of water before your next meeting. Staying hydrated is a small, effective way to support your energy levels and maintain mental clarity throughout a busy day.",
+    "gratitudePhrase": "Pay attention to the unspoken routines or familiar gestures that quietly support your day—like the steady rhythm of your work or the comfort of a routine. Recognizing these small constants helps anchor you amidst the busyness and fosters a deep sense of grounding.",
+    "famousQuote": "The most wasted of all days is one without laughter.",
+    "quoteAuthor": "E.E. Cummings"
   }
 ]
