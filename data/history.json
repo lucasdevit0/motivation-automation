@@ -2444,5 +2444,15 @@
     "gratitudePhrase": "Reflect on the quiet, often overlooked routines that support your day—like making your morning coffee or the familiar route you take to work. Recognizing these small constants helps deepen your appreciation for the steady anchors amid life's fluctuations.",
     "famousQuote": "Act as if what you do makes a difference. It does.",
     "quoteAuthor": "William James"
+  },
+  {
+    "sentAt": "2026-11-25T20:40:09.266Z",
+    "model": "openai/gpt-4.1-nano",
+    "recipientCount": 4,
+    "motivationalPhrase": "Today offers an opportunity to identify one small, intentional action that aligns with your values or priorities. It’s easy to get caught up in the busyness, but choosing a focused step can restore clarity and momentum. Trust that these subtle shifts accumulate into meaningful progress over time.",
+    "healthSuggestion": "Take a moment to pause and breathe deeply before your next task or meeting. Deep breathing not only calms your nervous system but also improves focus, giving you a steady foundation to handle the demands of the day.",
+    "gratitudePhrase": "Notice the simple routines that support your day—like the familiar rhythm of your morning routine or the comfort of a routine gesture. Appreciating these small constants can ground you and reinforce a sense of stability amidst life's unpredictability.",
+    "famousQuote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "quoteAuthor": "Winston Churchill"
   }
 ]
